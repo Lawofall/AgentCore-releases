@@ -1,6 +1,6 @@
 # AgentCore-releases
 
-AgentCore 桌面客户端的**公开发布仓**：安装包 + electron-updater 自动更新元数据（latest.yml / latest-mac.yml 等）。
+AgentCore 桌面客户端的**公开发布仓**：安装包 + electron-updater 自动更新元数据（`latest.yml` / `latest-mac.yml` 等）。
 
 | | |
 |---|---|
